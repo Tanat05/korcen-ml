@@ -30,7 +30,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 maxlen = 200
 
-model_path = 'vdcnn_model.h5'
+model_path = 'model.h5'
 
 tokenizer_path = "tokenizer.pickle"
 
