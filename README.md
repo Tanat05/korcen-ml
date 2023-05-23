@@ -22,7 +22,7 @@ Discord Bot
 2000+ servers
 ```
 ## 예시 코드
->Python
+>Python 3.10
 ```py
 import tensorflow as tf
 import numpy as np
