@@ -63,7 +63,7 @@ while True:
     if result >= 0.5:
         print("욕설입니다")
     else:
-        print("욕설입니다")
+        print("욕설이 아닙니다")
 ```
 
 # Maker
