@@ -33,6 +33,9 @@ while True:
     text = input("문장을 입력해 주세요: ")
     result = predict_text(text)
     if result >= 0.5:
+
         print("욕설입니다")
+
     else:
-        print("욕설입니다")
+
+        print("욕설이 아닙니다")
