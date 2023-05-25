@@ -72,7 +72,7 @@ while True:
 >Tanat
 ```
 github:   Tanat05
-discord:  Tanat#1533
+discord:  Tanat#0526
 email:    tanat@tanat.kr
 ```
 
