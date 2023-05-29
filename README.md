@@ -9,7 +9,7 @@
 
 70만개의 문장 대략 1000만 글자로 이루어진 대화 데이터를 이용해 학습하였습니다
 
-학습 데이터 파일 또는 최신 모델의 경우 따로 문의하여 주시기 바랍니다
+해당 오픈소스는 데모 버전으로 최신 학습 데이터 파일과 모델의 경우 따로 문의하여 주시기 바랍니다
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen),[ts version](https://github.com/KR-korcen/korcen.ts)
 
