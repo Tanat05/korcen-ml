@@ -7,17 +7,13 @@
 
 키워드 기반의 검열 중 가장 뛰어난 성능을 보인 korcen이 딥러닝을 통해 더 강력해진 검열로 찾아왔습니다.
 
-70만개의 문장 대략 1000만 글자로 이루어진 대화 데이터를 이용해 학습하였습니다
+직접 수집,라벨링한 160만개의 문장과  
 
 해당 오픈소스는 데모 버전으로 최신 학습 데이터 파일과 모델의 경우 따로 문의하여 주시기 바랍니다
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen),[ts version](https://github.com/KR-korcen/korcen.ts)
 
 [서포트 디스코드 서버](https://discord.gg/wyTU3ZQBPE)
-
-
-## korcen-ml이 사용된 프로젝트
->[TNS 봇](https://discord.com/api/oauth2/authorize?client_id=848795383751639080&permissions=8&scope=bot%20applications.commands)
 
 ```
 Discord Bot
@@ -66,7 +62,7 @@ while True:
         print("욕설이 아닙니다")
 ```
 
-# Maker
+## Maker
 
 
 >Tanat
@@ -76,5 +72,19 @@ discord:  Tanat#0526
 email:    tanat@tanat.kr
 ```
 
+## Reference
+
+### Github
+- [KcBERT](https://github.com/Beomi/KcBERT/)
+- [Toxic_comment_data](https://github.com/songys/Toxic_comment_data)
+
+### Youtube
+- [[NDC] 딥러닝으로 욕설 탐지하기](https://youtu.be/K4nU7yXy7R8)
+
+
+## License
+모든 `korcen`은 `Apache-2.0`라이선스 하에 공개되고 있습니다. 모델 및 코드를 사용할 경우 라이선스 내용을 준수해주세요. 
+
+- 라이선스 고지 및 저작권 고지 
 
 Copyright© All rights reserved.
