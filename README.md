@@ -82,7 +82,7 @@ email:    tanat@tanat.kr
 - [[NDC] 딥러닝으로 욕설 탐지하기](https://youtu.be/K4nU7yXy7R8)
 
 
-## License
+# License
 모든 `korcen`은 `Apache-2.0`라이선스 하에 공개되고 있습니다. 모델 및 코드를 사용할 경우 라이선스 내용을 준수해주세요. 
 
 - 라이선스 고지 및 저작권 고지 
