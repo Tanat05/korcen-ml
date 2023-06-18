@@ -9,8 +9,6 @@
 
 `직접 수집한 250만개의 문장`과 `데이터셋을 딥러닝을 통해 분류 후` 이용하여 학습하였습니다.
 
-해당 오픈소스는 **데모 버전**으로 최신 학습 데이터 파일과 모델의 경우 따로 문의하여 주시기 바랍니다
-
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen),[ts version](https://github.com/KR-korcen/korcen.ts)
 
 [서포트 디스코드 서버](https://discord.gg/wyTU3ZQBPE)
@@ -59,6 +57,14 @@ while True:
     else:
         print("It's a normal sentence.")
 ```
+
+# 구매
+| 상품 | 가격 | 기타 |
+|--|--| -- |
+| 최신 학습 모델(h5,pickle) | 10만원 | |
+| 모델 업데이트(h5,pickle) | 1만원 | 학습 모델 구매자 한정 |
+| 학습 데이터 파일(csv) | 50만원 | 3회 무료 업데이트 제공 |
+
 
 ## Maker
 
