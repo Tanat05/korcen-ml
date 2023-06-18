@@ -83,6 +83,6 @@ email:    tanat@tanat.kr
 # License
 모든 `korcen`은 `Apache-2.0`라이선스 하에 공개되고 있습니다. 모델 및 코드를 사용할 경우 라이선스 내용을 준수해주세요. 
 
-- 라이선스 고지 및 저작권 고지 
+- 라이선스 고지 및 저작권 고지 필수(일반인이 접근 가능한 부분에 표시)
 
 Copyright© All rights reserved.
