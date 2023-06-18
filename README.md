@@ -9,7 +9,7 @@
 
 `직접 수집한 250만개의 문장`과 `데이터셋을 딥러닝을 통해 분류 후` 이용하여 학습하였습니다.
 
-해당 오픈소스는 **데모 버전**으로 최신 모델과 데이터 파일을 구매하시려면 문의해주세요
+해당 오픈소스는 **데모 버전**으로 최신 모델과 데이터 파일을 이용하시려면 문의해주세요
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen),[ts version](https://github.com/KR-korcen/korcen.ts)
 
