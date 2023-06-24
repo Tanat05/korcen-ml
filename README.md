@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>
-    <a href="https://github.com/Tanat05/korcen/blob/main/readme/KR.md">한국어</a>
+    <a href="https://github.com/KR-korcen/korcen-ml/blob/main/README/KR.md">한국어</a>
   </h2>
 </div>
 
