@@ -13,7 +13,7 @@
 
 Korcen, which showed the best performance among keyword-based censorship, has come to stronger censorship through deep learning.
 
-We learned using `2.5 million sentences collected by ourselves` and `after classifying datasets through deep learning`.
+We learned using `2 million sentences collected by ourselves` and `after classifying datasets through deep learning`.
 
 The open source is **demo version**, so please contact us to use the latest model and data file
 
