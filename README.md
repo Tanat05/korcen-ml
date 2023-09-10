@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>korcen-ML</h1>
+  <h1>Korcen-ML</h1>
 </div>
 
 ![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
