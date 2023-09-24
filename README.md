@@ -74,14 +74,9 @@ email:    tanat@tanat.kr
 
 ## Reference
 
-### Github
-- [KcBERT](https://github.com/Beomi/KcBERT/)
+- [beomi/llama-2-ko-70b](https://huggingface.co/beomi/llama-2-ko-70b)
 - [Toxic_comment_data](https://github.com/songys/Toxic_comment_data)
-
-### Youtube
 - [[NDC] 딥러닝으로 욕설 탐지하기](https://youtu.be/K4nU7yXy7R8)
-
-### Blog
 - [머신러닝 부적절 텍스트 분류:실전편](https://medium.com/watcha/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%80%EC%A0%81%EC%A0%88-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B6%84%EB%A5%98-%EC%8B%A4%EC%A0%84%ED%8E%B8-57587ecfae78)
 
 
