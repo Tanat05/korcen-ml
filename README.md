@@ -68,6 +68,16 @@ email:    tanat@tanat.kr
 ## Reference
 
 - [beomi/llama-2-ko-70b](https://huggingface.co/beomi/llama-2-ko-70b)
+```
+@misc {l._junbum_2023,
+    author       = { {L. Junbum} },
+    title        = { llama-2-ko-70b },
+    year         = 2023,
+    url          = { https://huggingface.co/beomi/llama-2-ko-70b },
+    doi          = { 10.57967/hf/1130 },
+    publisher    = { Hugging Face }
+}
+```
 - [SKT-AI/KoGPT2](https://github.com/SKT-AI/KoGPT2)
 - [Toxic_comment_data](https://github.com/songys/Toxic_comment_data)
 - [[NDC] 딥러닝으로 욕설 탐지하기](https://youtu.be/K4nU7yXy7R8)
