@@ -23,7 +23,7 @@ import numpy as np
 import pickle
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-maxlen = 200 #모델 별 값이 다름
+maxlen = 200 #모델마다 값이 다름
 
 model_path = 'vdcnn_model.h5'
 
