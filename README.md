@@ -5,9 +5,9 @@
 ![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
 
 
-키워드 기반의 검열 중 가장 뛰어난 성능을 보인 korcen이 딥러닝을 통해 더 강력해진 검열로 찾아왔습니다.
+키워드 기반의 검열 중 뛰어난 성능을 보인 korcen이 딥러닝을 통해 더 강력해진 검열로 찾아왔습니다.
 
-`직접 수집한 중복제외 200만개의 문장`과 `데이터셋을 딥러닝을 통해 분류 후` 이용하여 학습하였습니다.
+직접 수집한 200만개의 문장을 라벨링하여 학습하였습니다.
 
 해당 오픈소스는 **데모 버전**으로 최신 모델과 데이터 파일을 이용하시려면 문의해주세요
 
@@ -15,12 +15,6 @@
 
 [서포트 디스코드 서버](https://discord.gg/wyTU3ZQBPE)
 
-## 최신 모델이 적용된 프로젝트
->[TNS 봇](https://discord.com/api/oauth2/authorize?client_id=848795383751639080&permissions=8&scope=bot%20applications.commands)
-```
-Discord Bot
-2000+ servers
-```
 ## 예시 코드
 >Python 3.10
 ```py
@@ -29,7 +23,7 @@ import numpy as np
 import pickle
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-maxlen = 200
+maxlen = 200 #모델 별 값이 다름
 
 model_path = 'vdcnn_model.h5'
 
