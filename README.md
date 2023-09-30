@@ -23,11 +23,10 @@ import numpy as np
 import pickle
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-maxlen = 200 #모델마다 값이 다름
+maxlen = 1000 # 모델마다 값이 다름
 
-model_path = 'vdcnn_model.h5'
-
-tokenizer_path = "tokenizer.pickle"
+model_path = 'vdcnn_model_with_kogpt2.h5'
+tokenizer_path = "tokenizer_with_kogpt2.pickle"
 
 model = tf.keras.models.load_model(model_path)
 with open(tokenizer_path, "rb") as f:
@@ -40,9 +39,12 @@ def preprocess_text(text):
 
 def predict_text(text):
     sentence = preprocess_text(text)
-    sentence_seq = pad_sequences(tokenizer.texts_to_sequences([sentence]), maxlen=maxlen)
+    encoded_sentence = tokenizer.encode_plus(sentence,
+                                             max_length=maxlen,
+                                             padding="max_length",
+                                             truncation=True)['input_ids']
+    sentence_seq = pad_sequences([encoded_sentence], maxlen=maxlen, truncating="post")
     prediction = model.predict(sentence_seq)[0][0]
-    print(prediction)
     return prediction
     
 while True:
