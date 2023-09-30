@@ -18,11 +18,12 @@
 ## 모델 검증
 데이터마다 욕설의 기준이 달라 오차가 있다는 걸 감안하고 확인하시기 바랍니다.
 
-|  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2(사용문의) |
-|------|------|------|------|------|
-| [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.712 | 사용불가 | 0.741 |  0.776 | 
+|  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2(사용문의) | [badword_check](https://github.com/Nam-SW/badword_check) |
+|------|------|------|------|------|------|
+| [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.712 | 사용불가 | 0.741 |  0.776 | 0.5829 | 
 
 ## 예시 코드
+해당 코드는 VDCNN_KOGPT2기준으로 VDCNN은 최신 TF를 지원하지않습니다
 >Python 3.10, tensorflow: 2.10
 ```py
 import tensorflow as tf
