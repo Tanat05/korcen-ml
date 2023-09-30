@@ -16,7 +16,7 @@
 [서포트 디스코드 서버](https://discord.gg/wyTU3ZQBPE)
 
 ## 예시 코드
->Python 3.10
+>Python 3.10, tensorflow: 2.10
 ```py
 import tensorflow as tf
 import numpy as np
