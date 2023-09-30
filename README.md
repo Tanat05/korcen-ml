@@ -15,6 +15,13 @@
 
 [서포트 디스코드 서버](https://discord.gg/wyTU3ZQBPE)
 
+## 모델 검증
+데이터마다 욕설의 기준이 달라 오차가 있다는 걸 감안하고 확인하시기 바랍니다.
+
+|  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2(사용문의) |
+|------|------|------|------|------|
+| [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.712 | 사용불가 | 0.741 |  0.776 | 
+
 ## 예시 코드
 >Python 3.10, tensorflow: 2.10
 ```py
