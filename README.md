@@ -9,11 +9,9 @@
 
 직접 수집한 데이터을 라벨링하여 학습하였습니다.
 
-VDCNN: 20만개의 데이터
-
-VDCNN_KOGPT2 : 200만개의 데이터
-
-VDCNN_LLAMA2: 500만개의 데이터
+|  | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2 |
+|------|------|------|------|
+| 학습에 이용된 문장수 | 20만개 | 200만개 | 500만개 |
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen),[ts version](https://github.com/KR-korcen/korcen.ts)
 
