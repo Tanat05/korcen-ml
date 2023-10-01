@@ -7,9 +7,13 @@
 
 키워드 기반의 검열 중 뛰어난 성능을 보인 korcen이 딥러닝을 통해 더 강력해진 검열로 찾아왔습니다.
 
-직접 수집한 200만개의 문장을 라벨링하여 학습하였습니다.
+직접 수집한 데이터을 라벨링하여 학습하였습니다.
 
-해당 오픈소스는 **데모 버전**으로 최신 모델과 데이터 파일을 이용하시려면 문의해주세요
+VDCNN: 20만개의 데이터
+
+VDCNN_KOGPT2 : 200만개의 데이터
+
+VDCNN_LLAMA2: 500만개의 데이터
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen),[ts version](https://github.com/KR-korcen/korcen.ts)
 
@@ -18,7 +22,7 @@
 ## 모델 검증
 데이터마다 욕설의 기준이 달라 오차가 있다는 걸 감안하고 확인하시기 바랍니다.
 
-|  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2(사용문의) | [badword_check](https://github.com/Nam-SW/badword_check) |
+|  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2 | [badword_check](https://github.com/Nam-SW/badword_check) |
 |------|------|------|------|------|------|
 | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.7121 | 사용불가 | 0.7545 |  0.7762 | 0.5829 | 
 
