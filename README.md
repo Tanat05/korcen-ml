@@ -23,6 +23,7 @@
 |  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2 | [badword_check](https://github.com/Nam-SW/badword_check) |
 |------|------|------|------|------|------|
 | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.7121 | 사용불가 | 0.7545 |  0.7762 | 0.5829 | 
+| [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | 0.8415 | 사용불 | 0.7824 | 0.8104 | 0.6761 |
 
 ## 예시 코드
 해당 코드는 VDCNN_KOGPT2기준으로 VDCNN은 최신 TF를 지원하지않습니다
