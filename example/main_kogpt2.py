@@ -1,3 +1,4 @@
+#py:3.10, tf:2.10
 import tensorflow as tf
 import numpy as np
 import pickle
