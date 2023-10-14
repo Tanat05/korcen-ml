@@ -4,12 +4,9 @@
 
 ![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
 
+korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 극복하기위해 딥러닝을 통해 정확도를 한층 더 올리려는 프로젝트입니다.
 
-키워드 기반의 검열 중 뛰어난 성능을 보인 korcen이 딥러닝을 통해 더 강력해진 검열로 찾아왔습니다.
-
-다른 모델을 이용한 것은 토큰화 과정에서 이용된 것일뿐 파인튜닝된 모델이 아닙니다
-
-직접 수집한 데이터을 라벨링하여 학습하였습니다.
+일부 모델만 공개하고 있으며 모델 파일은 [여기](https://github.com/KR-korcen/korcen-ml/tree/main/model)에서 확인이 가능합니다.
 
 |  | VDCNN | VDCNN_KOGPT2 | VDCNN_LLAMA2 |
 |------|------|------|------|
