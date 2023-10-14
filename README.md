@@ -83,7 +83,7 @@ email:    tanat@tanat.kr
 ## Reference
 
 
-- [vilm/vulture-40B"](https://huggingface.co/vilm/vulture-40b)
+- [vilm/vulture-40B](https://huggingface.co/vilm/vulture-40b)
 - [beomi/llama-2-ko-70b](https://huggingface.co/beomi/llama-2-ko-70b)
 ```
 @misc {l._junbum_2023,
