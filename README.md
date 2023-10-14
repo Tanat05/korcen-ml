@@ -27,10 +27,10 @@
 | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.7121 | 0.7545 |  0.7762 | 0.5829 | 
 | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | 0.8415 | 0.7824 | 0.8104 | 0.6761 |
 
-## 예시 코드
-해당 코드는 VDCNN_KOGPT2기준으로 VDCNN은 최신 TF를 지원하지않습니다
->Python 3.10, tensorflow: 2.10
+## example
 ```py
+#py: 3.10, tf: 2.10
+#kogpt2
 import tensorflow as tf
 import numpy as np
 import pickle
