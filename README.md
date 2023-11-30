@@ -12,7 +12,7 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 |------|------|------|------|
 | 학습에 이용된 문장수 | 20만개 | 200만개 | 500만개 |
 
-키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen),[ts version](https://github.com/KR-korcen/korcen.ts)
+키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen), [ts version](https://github.com/KR-korcen/korcen.ts)
 
 [서포트 디스코드 서버](https://discord.gg/wyTU3ZQBPE)
 
