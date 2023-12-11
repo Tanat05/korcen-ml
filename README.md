@@ -24,7 +24,7 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 데이터마다 욕설의 기준이 달라 오차가 있다는 걸 감안하고 확인하시기 바랍니다.
 
 |  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN_KOGPT2 | VDCNN_LLAMA2 | VDCNN_LLAMA2_V2 | [badword_check](https://github.com/Nam-SW/badword_check) |
-|------|------|------|------|------|
+|------|------|------|------|------|------|
 | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.7121 | 0.7545 |  0.7762 | 0.8019 | 0.5829 | 
 | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | 0.8415 | 0.7824 | 0.8104 | 0.8200 | 0.6761 |
 
