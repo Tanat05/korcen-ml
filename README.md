@@ -8,6 +8,8 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 
 일부 모델만 공개하고 있으며 모델 파일은 [여기](https://github.com/KR-korcen/korcen-ml/tree/main/model)에서 확인이 가능합니다.
 
+더 많은 모델 파일과 학습 데이터를 다운받고 싶다면 디스코드 dm(tanat05)으로 문의주세요.
+
 |  | 데이터 문장수 |
 |------|------|
 | VDCNN | 20만개 |
