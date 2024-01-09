@@ -12,10 +12,10 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 
 |  | 데이터 문장수 |
 |------|------|
-| VDCNN | 20만개 |
-| VDCNN_KOGPT2 | 200만개 |
-| VDCNN_LLAMA2 | 500만개 | 
-| VDCNN_LLAMA2_V2 | 1000만개 |
+| VDCNN | 200,000개 |
+| VDCNN_KOGPT2 | 2,000,000개 |
+| VDCNN_LLAMA2 | 5,000,000개 | 
+| VDCNN_LLAMA2_V2 | 10,000,000개 |
 
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen), [ts version](https://github.com/KR-korcen/korcen.ts)
