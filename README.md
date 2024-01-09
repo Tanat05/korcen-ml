@@ -15,7 +15,7 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 | VDCNN | 20만개 |
 | VDCNN_KOGPT2 | 200만개 |
 | VDCNN_LLAMA2 | 500만개 | 
-| VDCNN_LLAMA2_V2 | 800만개 |
+| VDCNN_LLAMA2_V2 | 1000만개 |
 
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen), [ts version](https://github.com/KR-korcen/korcen.ts)
@@ -28,7 +28,7 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 |  | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | VDCNN_KOGPT2 | VDCNN_LLAMA2 | VDCNN_LLAMA2_V2 | [badword_check](https://github.com/Nam-SW/badword_check) |
 |------|------|------|------|------|------|
 | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | 0.7121 | 0.7545 |  0.7762 | 0.8019 | 0.5829 | 
-| [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | 0.8415 | 0.7824 | 0.8104 | 0.8226 | 0.6761 |
+| [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | 0.8415 | 0.7824 | 0.8104 | 0.8327 | 0.6761 |
 
 ## example
 ```py
