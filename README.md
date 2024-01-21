@@ -28,10 +28,10 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 
 |  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) |
 |------|------|------|------|
-| [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | 0.7121 | 0.8415 | 0.6800 |
+| [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | 0.7121 | **0.8415** | 0.6800 |
 | VDCNN_KOGPT2 | 0.7545 | 0.7824 |  |
 | VDCNN_LLAMA2 | 0.7762 | 0.8104 | 0.7296 |
-| VDCNN_LLAMA2_V2 | 0.8217 | 0.8410 | 0.7837 |
+| VDCNN_LLAMA2_V2 | **0.8217** | 0.8410 | **0.7837** |
 | [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  |
 | [CurseDetector](https://github.com/mangto/CurseDetector) | 0.5679 |  |  |
 
