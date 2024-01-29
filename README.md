@@ -4,7 +4,7 @@
 
 ![131_20220604170616](https://user-images.githubusercontent.com/85154556/171998341-9a7439c8-122f-4a9f-beb6-0e0b3aad05ed.png)
 
-korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 극복하기위해 딥러닝을 통해 정확도를 한층 더 올리려는 프로젝트입니다.
+korcen-ml은 기존 키워드 기반의 korcen의 우회가 쉽다는 단점을 극복하기위해 딥러닝을 통해 정확도를 한층 더 올리려는 프로젝트입니다.
 
 일부 모델만 공개하고 있으며 모델 파일은 [여기](https://github.com/KR-korcen/korcen-ml/tree/main/model)에서 확인이 가능합니다.
 
