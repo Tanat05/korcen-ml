@@ -32,8 +32,8 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 | VDCNN_KOGPT2(23.6.15) | 0.7545 | 0.7824 |  |
 | VDCNN_LLAMA2(23.9.30) | 0.7762 | 0.8104 | 0.7296 |
 | VDCNN_LLAMA2_V2(24.1.29) | **0.8322** | 0.8410 | **0.7837** |
-| [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  |
-| [CurseDetector](https://github.com/mangto/CurseDetector) | 0.5679 |  |  |
+| [badword_check](https://github.com/Nam-SW/badword_check)(23.10.1) | 0.5829 | 0.6761 |  |
+| [CurseDetector](https://github.com/mangto/CurseDetector)(24.1.10) | 0.5679 |  |  |
 
 
 
