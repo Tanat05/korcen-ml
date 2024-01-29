@@ -12,10 +12,10 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 
 |  | 데이터 문장수 |
 |------|------|
-| VDCNN | 200,000개 |
-| VDCNN_KOGPT2 | 2,000,000개 |
-| VDCNN_LLAMA2 | 5,000,000개 | 
-| VDCNN_LLAMA2_V2 | 10,000,000개 |
+| VDCNN(23.4.30) | 200,000개 |
+| VDCNN_KOGPT2(23.5.28) | 2,000,000개 |
+| VDCNN_LLAMA2(23.9.30) | 5,000,000개 | 
+| VDCNN_LLAMA2_V2(24.1.29) | 10,000,000개 |
 
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen), [ts version](https://github.com/KR-korcen/korcen.ts)
@@ -29,9 +29,9 @@ korcen-ml은 기존 키워드 기반의 korcen은 우회가 쉽다는 단점을 
 |  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) |
 |------|------|------|------|
 | [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | 0.7121 | **0.8415** | 0.6800 |
-| VDCNN_KOGPT2 | 0.7545 | 0.7824 |  |
-| VDCNN_LLAMA2 | 0.7762 | 0.8104 | 0.7296 |
-| VDCNN_LLAMA2_V2 | **0.8217** | 0.8410 | **0.7837** |
+| VDCNN_KOGPT2(23.6.15) | 0.7545 | 0.7824 |  |
+| VDCNN_LLAMA2(23.9.30) | 0.7762 | 0.8104 | 0.7296 |
+| VDCNN_LLAMA2_V2(24.1.29) | **0.8322** | 0.8410 | **0.7837** |
 | [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  |
 | [CurseDetector](https://github.com/mangto/CurseDetector) | 0.5679 |  |  |
 
