@@ -39,16 +39,15 @@ korcen-ml은 기존 키워드 기반의 korcen의 우회가 쉽다는 단점을 
 ## example
 ```py
 #py: 3.10, tf: 2.10
-#kogpt2
 import tensorflow as tf
 import numpy as np
 import pickle
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-maxlen = 1000 # 모델마다 값이 다름
+maxlen = 1000
 
-model_path = 'vdcnn_model_with_kogpt2.h5'
-tokenizer_path = "tokenizer_with_kogpt2.pickle"
+model_path = 'vdcnn_model.h5'
+tokenizer_path = "tokenizer.pickle"
 
 model = tf.keras.models.load_model(model_path)
 with open(tokenizer_path, "rb") as f:
