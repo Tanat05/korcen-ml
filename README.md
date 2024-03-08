@@ -6,7 +6,7 @@
 
 korcen-ml은 기존 키워드 기반의 korcen의 우회가 쉽다는 단점을 극복하기위해 딥러닝을 통해 정확도를 한층 더 올리려는 프로젝트입니다.
 
-일부 모델만 공개하고 있으며 모델 파일은 [여기](https://github.com/KR-korcen/korcen-ml/tree/main/model)에서 확인이 가능합니다.
+gpt2 모델만 공개하고 있으며 모델 파일은 [여기](https://github.com/KR-korcen/korcen-ml/tree/main/model)에서 확인이 가능합니다.
 
 더 많은 모델 파일과 학습 데이터를 다운받고 싶다면 문의주세요.
 
