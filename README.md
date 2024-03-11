@@ -26,15 +26,15 @@ KOGPT2 모델만 공개하고 있으며 모델 파일은 [여기](https://github
 데이터마다 욕설의 기준이 달라 오차가 있다는 걸 감안하고 확인하시기 바랍니다.
 
 
-|  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) | [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data) |
-|------|------|------|------|------|
-| [korcen(v0.3.5)](https://github.com/KR-korcen/korcen) | 0.7121 | **0.8415** | 0.6800 | 0.6305 |
-| VDCNN(23.4.30) | 0.6900 | 0.4885 |  | 0.4885 |
-| VDCNN_KOGPT2(23.6.15) | 0.7545 | 0.7824 |  | 0.7055 |
-| VDCNN_LLAMA2(23.9.30) | 0.7762 | 0.8104 | 0.7296 | V2로 대체 |
-| VDCNN_LLAMA2_V2(24.1.29) | **0.8322** | 0.8410 | **0.7837** | **0.7120** |
-| [badword_check](https://github.com/Nam-SW/badword_check)(23.10.1) | 0.5829 | 0.6761 |  |  |
-| [CurseDetector](https://github.com/mangto/CurseDetector)(24.1.10) | 0.5679 | 시간소요로 테스트 블가 |  | 0.5785 |
+|  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) | [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data) | [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean) |
+|------|------|------|------|------|------|
+| [korcen](https://github.com/KR-korcen/korcen) | 0.7121 | **0.8415** | 0.6800 | 0.6305 | 0.4479 |
+| VDCNN(23.4.30) | 0.6900 | 0.4885 |  | 0.4885 |  |
+| VDCNN_KOGPT2(23.6.15) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 |
+| VDCNN_LLAMA2(23.9.30) | 0.7762 | 0.8104 | 0.7296 | V2로 대체 |  |
+| VDCNN_LLAMA2_V2(24.1.29) | **0.8322** | 0.8410 | **0.7837** | **0.7120** | **0.7477** |
+| [badword_check](https://github.com/Nam-SW/badword_check)(23.10.1) | 0.5829 | 0.6761 |  |  | 0.4738 |
+| [CurseDetector](https://github.com/mangto/CurseDetector)(24.1.10) | 0.5679 | 시간소요로 테스트 블가 |  | 0.5785 |  |
 
 ## example
 ```py
