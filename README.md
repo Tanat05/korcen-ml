@@ -33,16 +33,6 @@ KOGPT2 모델만 공개하고 있으며 모델 파일은 [여기](https://github
 | VDCNN_KOGPT2(23.6.15) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 |
 | VDCNN_LLAMA2(23.9.30) | 0.7762 | 0.8104 | 0.7296 |  |  |
 | VDCNN_LLAMA2_V2(24.1.29) | **0.8322** | 0.8410 | **0.7837** | **0.7120** | **0.7477** |
-| [badword_check](https://github.com/Nam-SW/badword_check)(23.10.1) | 0.5829 | 0.6761 |  | 0.6410 | 0.4738 |
-| [CurseDetector](https://github.com/mangto/CurseDetector)(24.1.10) | 0.5679 |  |  | 0.5785 |  |
-
-| ![image](https://github.com/KR-korcen/korcen-ml/assets/85154556/8a168d7e-da4f-4262-9591-2e1d55ddcf2c) | ![image](https://github.com/KR-korcen/korcen-ml/assets/85154556/1564b47a-1176-4479-aac5-df306c281533) |
-| ----- | ----- |
-| ![image](https://github.com/KR-korcen/korcen-ml/assets/85154556/d9764281-1edd-44e7-bf08-0a689b497830) | ![image](https://github.com/KR-korcen/korcen-ml/assets/85154556/d3168dbb-3587-41c4-8c5e-148123e953e5) |
-| ![image](https://github.com/KR-korcen/korcen-ml/assets/85154556/34c1ba53-5ab8-46bb-9843-88cb46f5fdc2) |
-
-
-
 
 ## example
 ```py
