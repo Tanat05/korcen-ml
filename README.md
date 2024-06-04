@@ -12,10 +12,10 @@ KOGPT2 모델만 공개하고 있으며 모델 파일은 [여기](https://github
 
 |  | 데이터 문장수 |
 |------|------|
-| VDCNN(23.4.30) | 200,000개 |
-| VDCNN_KOGPT2(23.05.28) | 2,000,000개 |
-| VDCNN_LLAMA2(23.09.30) | 5,000,000개 | 
-| VDCNN_LLAMA2_V2(24.06.04) | 10,000,000개 |
+| VDCNN(23.4.30) | 200,000 |
+| VDCNN_KOGPT2(23.05.28) | 2,000,000 |
+| VDCNN_LLAMA2(23.09.30) | 5,000,000 | 
+| VDCNN_LLAMA2_V2(24.06.04) | 13,000,000 |
 
 
 키워드 기반 기존 라이브러리 : [py version](https://github.com/KR-korcen/korcen), [ts version](https://github.com/KR-korcen/korcen.ts)
