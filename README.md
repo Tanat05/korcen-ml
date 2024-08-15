@@ -101,6 +101,14 @@ email:    tanat@tanat.kr
     publisher    = { Hugging Face }
 }
 ```
+```
+@article{exaone-3.0-7.8B-instruct,
+  title={EXAONE 3.0 7.8B Instruction Tuned Language Model},
+  author={LG AI Research},
+  journal={arXiv preprint arXiv:2408.03541},
+  year={2024}
+}
+```
 - [SKT-AI/KoGPT2](https://github.com/SKT-AI/KoGPT2)
 - [Toxic_comment_data](https://github.com/songys/Toxic_comment_data)
 - [[NDC] 딥러닝으로 욕설 탐지하기](https://youtu.be/K4nU7yXy7R8)
