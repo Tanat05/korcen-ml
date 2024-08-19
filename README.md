@@ -13,7 +13,7 @@ KOGPT2 모델만 공개하고 있으며 모델 파일은 [여기](https://github
 |  | 데이터 문장수 |
 |------|------|
 | VDCNN(23.4.30) | 200,000 |
-| [VDCNN_KOGPT2(23.05.28)](https://github.com/KR-korcen/korcen-ml/tree/main/model) | 2,000,000 |
+| [VDCNN_KOGPT2](https://github.com/KR-korcen/korcen-ml/tree/main/model)(23.06.15) | 2,000,000 |
 | VDCNN_LLAMA2(23.09.30) | 5,000,000 | 
 | VDCNN_LLAMA2_V2(24.06.04) | 13,000,000 |
 | LSTM_EXAONE3(24.08.16) | 13,000,000 |
@@ -31,7 +31,7 @@ KOGPT2 모델만 공개하고 있으며 모델 파일은 [여기](https://github
 |------|------|------|------|------|------|
 | [korcen](https://github.com/KR-korcen/korcen) | 0.7121 | 0.8415 | 0.6800 | 0.6305 | 0.4479 |
 | VDCNN(23.4.30) | 0.6900 | 0.4885 |  | 0.4885 |  |
-| VDCNN_KOGPT2(23.06.15) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 |
+| [VDCNN_KOGPT2](https://github.com/KR-korcen/korcen-ml/tree/main/model)(23.06.15) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 |
 | VDCNN_LLAMA2(23.09.30) | 0.7762 | 0.8104 | 0.7296 |  |  |
 | VDCNN_LLAMA2_V2(24.06.04) | **0.8322** | 0.8420 | 0.7837 | 0.7120 | **0.7477** |
 | LSTM_EXAONE3(24.08.16) |  | **0.8432** | **0.8851** | **0.7130** | 0.6919 |
