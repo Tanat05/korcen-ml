@@ -34,7 +34,7 @@ KOGPT2 모델만 공개하고 있으며 모델 파일은 [여기](https://github
 | TF [VDCNN_KOGPT2](https://github.com/KR-korcen/korcen-ml/tree/main/model)(23.06.15) | 0.7545 | 0.7824 |  | 0.7055 | 0.6875 |
 | TF VDCNN_LLAMA2(23.09.30) | 0.7762 | 0.8104 | 0.7296 |  |  |
 | TF VDCNN_LLAMA2_V2(24.06.04) | **0.8322** | 0.8420 | 0.7837 | 0.7120 | **0.7477** |
-| TF LSTM_EXAONE3(24.08.16) | **0.8395** | **0.8432** | **0.8851** | **0.7130** | 0.6919 |
+| TF LSTM_EXAONE3(24.08.16) | **0.8395** | **0.8432** | **0.8851** | **0.7155** | 0.6919 |
 | TF BIDIRECTIONAL_LSTM_EXAONE3(테스트 중) |  |  |  |  |  |
 | TF TRANSFORMER_EXAONE3(테스트 중) |  |  |  |  |  |
 | JAX LSTM_EXAONE3(개발 중) |  |  |  |  |  |
